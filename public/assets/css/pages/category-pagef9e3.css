@@ -1,0 +1,204 @@
+.info .heading {
+  line-height: 24px;
+}
+.time i {
+  vertical-align: unset;
+  font-size: 12px;
+}
+.subc-leadnews-heading {
+  font-size: 30px !important;
+  line-height: 30px !important;
+}
+.subc-leadnews-summary {
+  margin-top: 10px;
+  font-size: 20px !important;
+  line-height: 23px !important;
+}
+.subCategoryListNewsDiv {
+  background-color: #fff;
+  height: 100%;
+  width: 100%;
+  margin-top: 10px;
+}
+.subCategoryListNewsDiv ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.subCategoryListNewsDiv ul li {
+  padding: 10px;
+  border-bottom: 1px solid #d9d9d9;
+}
+.subCategoryListNewsDiv ul li:last-child {
+  border-bottom: none !important;
+}
+.subCategoryListNewsDiv ul li a {
+  font-size: 23px;
+  line-height: 24px;
+  text-decoration: none;
+}
+.pagination {
+  margin: 0 !important;
+}
+@media (max-width: 414px) {
+  .news-intro .heading {
+    font-size: 20px !important;
+    line-height: 23px !important;
+  }
+  .entertainmen-category {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+  }
+  .entertainmentTopnews {
+    padding-bottom: 0 !important;
+  }
+  .entertainmentLdnews {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+  }
+  .info .heading {
+    font-size: 20px !important;
+    line-height: 21px !important;
+  }
+  .media-left img {
+    width: 100px !important;
+  }
+  h4.media-heading {
+    font-size: 20px !important;
+    line-height: 23px !important;
+  }
+  .normalctg {
+    margin-top: 0;
+  }
+  .normalctgRight {
+    padding-bottom: 0;
+    width: 100%;
+  }
+  .categoryTopBorder {
+    border-top: 1px solid #e7e8e2;
+  }
+  .res-xs-tp {
+    padding-top: 0;
+  }
+  .category-more-news-btn {
+    padding: 0 !important;
+    font-size: 18px !important;
+  }
+  .category-morenews-spinner {
+    font-size: 12px !important;
+    padding-right: 8px !important;
+  }
+  .entertainmen-category-row .info {
+    padding-bottom: 0;
+  }
+  .entertainmen-category-row .news-content {
+    box-shadow: unset;
+  }
+  .entertainmen-category-row .info .heading {
+    margin-bottom: 0 !important;
+  }
+  .categoryPageListNews .news-content {
+    box-shadow: unset;
+  }
+  .categoryPageListNews .news-content .heading {
+    font-size: 20px !important;
+    line-height: 21px !important;
+    margin-top: 5px !important;
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+  }
+  .categoryPageListNews .media {
+    margin-top: 8px !important;
+    margin-bottom: 8px !important;
+  }
+  .categoryPageListNews .media .media-left img {
+    border-right: none !important;
+  }
+  .subCategoryListNewsDiv ul li a {
+    font-size: 20px;
+    line-height: 21px;
+    text-decoration: none;
+  }
+  .subc-leadnews {
+    padding: 10px !important;
+    margin-top: 5px;
+  }
+  .subc-leadnews .info {
+    padding-bottom: 0 !important;
+  }
+  .subc-leadnews .info .subc-leadnews-heading {
+    font-size: 22px !important;
+    line-height: 23px !important;
+  }
+  .subCategoryListNewsDiv {
+    margin-top: -10px !important;
+  }
+  .entertainmen-category-row {
+    margin-top: -5px !important;
+  }
+  .normalctgLead {
+    margin-top: 5px;
+  }
+}
+@media (min-width: 415px) and (max-width: 991px) {
+  .entertainmen-category {
+    padding-bottom: 0 !important;
+  }
+  .entertainmen-category-row {
+    margin-top: 6px;
+    margin-bottom: 16px !important;
+  }
+  .entertainmen-category-cl {
+    padding-right: 4px !important;
+    padding-bottom: 9px !important;
+    padding-left: 8px !important;
+  }
+  .normalctgRight {
+    width: 100%;
+  }
+  .subc-leadnews {
+    padding: 10px !important;
+  }
+  .subc-leadnews-heading {
+    padding-bottom: 20px !important;
+  }
+  .subc-leadnews {
+    margin-top: -15px;
+  }
+  .subCategoryListNewsDiv {
+    margin-top: -10px !important;
+  }
+  .entertainmen-category-row {
+    padding-left: 5px !important;
+    padding-right: 10px !important;
+  }
+  .categoryTopRightDesign .heading {
+    padding-bottom: 20px !important;
+  }
+  .normalctg .heading {
+    font-size: 22px !important;
+    line-height: 24px !important;
+  }
+  .normalctgRight {
+    margin-top: 10px;
+  }
+  .normalctgLead {
+    margin-top: -15px;
+  }
+}
+.subCategoryScrollMenu {
+  background-color: #f2bc7e;
+  overflow: auto;
+  white-space: nowrap;
+}
+.subCategoryScrollMenu a {
+  display: inline-block;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  text-decoration: none;
+  font-size: 20px;
+}
+.subCategoryScrollMenu a:hover {
+  background-color: #fa9016;
+}

@@ -1,0 +1,22 @@
+.pager a {
+  border-radius: 8px !important;
+}
+.pager .disabled span {
+  border-radius: 8px !important;
+}
+@media (max-width: 414px) {
+  .allnews-heading {
+    font-size: 20px !important;
+    line-height: 23px !important;
+    margin-top: 0;
+  }
+  .allnews-subcategory-navbar {
+    margin-top: 10px;
+  }
+  .subcategory-navbar {
+    margin-top: 5px !important;
+  }
+  .media {
+    margin-top: 8px !important;
+  }
+}
